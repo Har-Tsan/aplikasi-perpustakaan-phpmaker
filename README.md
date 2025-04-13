@@ -84,4 +84,7 @@ Buku ini mendampingi pembuatan aplikasi ini secara menyeluruh:
 
 ## 🤝 Lisensi
 
-Aplikasi ini bebas digunakan untuk keperluan edukasi. Harap mencantumkan atribusi kepada penulis dan repo ini jika digunakan sebagai referensi dalam karya lain.
+Proyek ini dirilis di bawah lisensi MIT.
+Anda bebas menggunakan, menyalin, memodifikasi, dan mendistribusikan kode ini, selama menyertakan atribusi kepada penulis asli.
+
+Lihat file LICENSE untuk informasi selengkapnya.
