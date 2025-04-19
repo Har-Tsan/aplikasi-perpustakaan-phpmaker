@@ -28,7 +28,7 @@ Proyek ini dibuat menggunakan **PHPMaker 2021** dan didukung oleh **MySQL**. Des
 ## 🚀 Cara Menjalankan di Lokal
 
 ### 1. Install XAMPP
-Pastikan Anda sudah menginstall **XAMPP** versi terbaru. Unduh dari: [https://www.apachefriends.org](https://www.apachefriends.org)
+Pastikan Anda sudah menginstall **XAMPP** versi 8.2.0. Unduh dari: [https://www.apachefriends.org](https://www.apachefriends.org)
 
 Aktifkan modul:
 - Apache
